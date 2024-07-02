@@ -1,10 +1,51 @@
-- 👋 Hi, I’m @ram2145
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Yo, I'm Rushi Shingare</h1>
 
-<!---
-ram2145/ram2145 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="http://" target="_blank">
+    <img src="https://github.com/ram2145/ram2145/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/getintorj/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=ETHICAL%20HACKER%20;WEB%20DEVELOPER;WEB%20PENTESTER%20;PROGRAMMER%20;YOUTUBER%20;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ram2145">
+    <img src="contributions.svg" />
+  </a>
+</p>
+
+---
+
+<p align="center"> 
+  <b>BUGS ATTRACTED TOWARDS ME 🗿</b>
+</p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/ram2145/count.svg" alt="Visitor Count">
+</p>
+
+---
+
+```scss
+// Continuously hunt bugs and vulnerabilities
+while (bugsExist) {
+    findBugs(); // Discover and report vulnerabilities
+    exploit(); // Patch and secure systems
+    improveSecurity++; // Enhance cybersecurity posture
+}
+
+while (challengeEndures) {
+    learn(); // Stay updated with latest attack vectors
+    adapt(); // Develop new defensive strategies
+    innovate(); // Redefine security protocols
+}
+// RUSHIKESH SHINGARE --
+```
+
+<hr />
+<div align="center">
+  <i><b>POC >> POV</b><br><b>ᴊᴜꜱᴛ ᴘʀᴏᴠᴇ ᴛʜᴇᴍ ᴡʀᴏɴɢ. 🥷🎭 ɴᴇᴠᴇʀ ꜰᴏʀɢᴇᴛ ᴛʜɪꜱ.✨</b></i>
+</div>
